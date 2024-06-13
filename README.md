@@ -2,10 +2,10 @@
 
 I wrote this because I only use a few tmux sessions and I always forget which sessions I leave running.
 
-# Installing
+## Installing
 
 Put this shell script somewhere in your path.  Install [gum](https://github.com/charmbracelet/gum).
 
-# Demo
+## Demo
 
 <img src="/images/tm_sample1.gif" alt="Demo of tm launcher"/>
