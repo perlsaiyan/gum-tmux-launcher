@@ -9,3 +9,4 @@ Put this shell script somewhere in your path.  Install [gum](https://github.com/
 # Demo
 
 ![demo of tm launcher](/images/tm_sample1.gif)
+<img src="/images/tm_sample1.gif" alt="Demo of tm launcher"/>

@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if ! command -v gum &> /dev/null
+then
+        echo "Could not find gum.  Please install."
+        exit 1
+fi
+
 if ! command -v tmux &> /dev/null
 then
         echo "Could not find tmux.  Please install."
